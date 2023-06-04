@@ -1,0 +1,4 @@
+I would like to use docker for this.
+but maybe later... it could become more complicated
+
+options?
